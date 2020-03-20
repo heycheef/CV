@@ -1,0 +1,151 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', sans-serif;
+}
+
+h1 {
+  font-size: 5.625rem;
+  margin: 50px auto 50px auto;
+  font-family: 'Sacramento', cursive;
+  color: #66BFBF;
+}
+
+h2 {
+  font-size: 2.5rem;
+  margin-top: 50px;
+  font-family: 'Montserrat', cursive;
+  color: #66BFBF;
+  font-weight: normal;
+}
+  .top-container {
+    position: relative;
+    text-align: center;
+    background-color: #EAF6F6;
+    padding-top: 100px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 600px;
+  top: 50px;
+}
+
+.lowcloud-container {
+
+}
+.bottom-cloud {
+  position: relative;
+  right: 400px;
+}
+
+.middle-container {
+position: relative;
+text-align: center;
+}
+
+  .raj-image {
+    position: relative;
+    width: 10%;
+    top: 40px;
+}
+
+hr {
+
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width: 5%;
+}
+.skills {
+  position: relative;
+  width: 100%;
+font-family: 'Montserrat', cursive;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+
+}
+.analytics-image {
+  width: 25%;
+float: left;
+margin-right: 30px;
+}
+.skill-row2 {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+
+}
+.analytics2-image {
+  width: 25%;
+float: right;
+margin-right: 30px;
+}
+
+h3 {
+  color:#11999E;
+}
+
+.skill2-txt {
+  margin-top: 50px;
+}
+
+.pushbtn-down {
+  margin-bottom: 50px;
+}
+.contact-me {
+margin: auto auto 50px auto;
+}
+
+.btn {
+	box-shadow:inset 1px 0px 4px 0px #97c4fe;
+	background:linear-gradient(to bottom, #3d94f6 5%, #1e62d0 100%);
+	background-color:#3d94f6;
+	border-radius:8px;
+	border:1px solid #337fed;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family: 'Montserrat';
+	font-size:15px;
+	font-weight:bold;
+	padding:15px 65px;
+	text-decoration:none;
+	text-shadow:0px 1px 15px #1570cd;
+}
+.btn:hover {
+	background:linear-gradient(to bottom, #1e62d0 5%, #3d94f6 100%);
+	background-color:#1e62d0;
+}
+.btn:active {
+	position:relative;
+	top:1px;
+}
+
+
+.bottom-container {
+  position: relative;
+  Padding:50px;
+  background-color: #66BFBF;
+  position: relative;
+  text-align: center;
+    height: 100px;
+}
+
+.footer-link {
+  margin: 30px;
+  color:#11999E;
+  font-family: 'Montserrat', serif;
+  text-decoration: none;
+
+}
+.copy-right {
+  margin-top: 50px;
+}
